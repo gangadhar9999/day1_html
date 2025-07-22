@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>my_Resume</title>
+</head>
+<body>
+
+  <header>
+    <h1>GANGADHAR</h1>
+    <nav>
+      <a href="#education">Education</a> |
+      <a href="#work">Work Experience</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Education Section -->
+    <section id="education">
+      <h2>Education</h2>
+      <table border="5">
+        <thead>
+          <tr>
+            <th>Qualification</th>
+            <th>Institution</th>
+            <th>Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>B.Tech in Computer Science</td>
+            <td>Annamacharya University</td>
+            <td>2021 - 2025</td>
+          </tr>
+          <tr>
+            <td>Intermediate (MPC)</td>
+            <td>SBVD sabha Jr.College</td>
+            <td>2019 - 2021</td>
+          </tr>
+          <tr>
+            <td>SSC</td>
+            <td>Z.P High School</td>
+            <td>2018 - 2019</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Work Experience Section -->
+    <section id="work">
+      <h2>Work Experience</h2>
+      <table border="5">
+        <thead>
+          <tr>
+            <th>Role</th>
+            <th>Company</th>
+            <th>Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Software Engineer </td>
+            <td>Fresher</td>
+            <td>Loking for Job</td>
+          </tr>
+          <tr>
+            <td>Data Analyst (Part-Time)</td>
+            <td>NA</td>
+            <td>NA<td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: gangadharroy9999@gmail.com</p>
+      <p>Phone: +91-7036270144</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <i> 2025 Gangadhar</i> </p>
+  </footer>
+
+</body>
+</html>
